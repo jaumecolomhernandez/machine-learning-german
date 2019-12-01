@@ -1,2 +1,2 @@
 # machine-learning-german
-A program to learn german as a machine
+A program to learn german
